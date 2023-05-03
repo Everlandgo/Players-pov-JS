@@ -1,0 +1,29 @@
+
+$itemGrow: 1.2;
+$duration: 250ms;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #212529 !important;
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.figure{
+  color:black;
+}
+
+// &:hover {
+//   margin: 0 40px;
+//   transform: scale(1.2);
+// }
+
+
+@media only screen and (max-width: 600px) {
+  a.arrow__btn {
+    display: none;
+  }
+}
