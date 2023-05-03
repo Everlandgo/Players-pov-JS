@@ -1,2 +1,29 @@
 # players-pov
 A website that plays the POV of the teammates of a game match/round at the same time. 
+
+**Steps** 
+You need to add your mysql username and passw to the '.env' file. 
+
+For example, my `.env` file looks like this:
+```
+CLOUD_NAME = 'dvapwslkg'
+CLOUDINARY_API_KEY = '247173229232398',
+CLOUDINARY_SECRET = '5i3j4yQrH7GXKp-tZxk1BBOgOS8'
+MYSQL_USERNAME = 'root'
+MYSQL_PASSW = 'Password_123'
+```
+
+Then run the following commands:
+
+`npm i`
+
+`npx sequelize-cli db:create`
+
+`npx sequelize-cli db:migrate`
+
+`npm start`
+
+`npx sequelize-cli db:seed:all`
+
+**Update**
+The cloudinary account is deactivated so there would be problems when the code is run. 
