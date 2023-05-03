@@ -1,7 +1,7 @@
 # players-pov
 A website that plays the POV of the teammates of a game match/round at the same time. 
 
-**Steps** 
+**Steps**/
 You need to add your mysql username and passw to the '.env' file. 
 
 For example, my `.env` file looks like this:
@@ -25,5 +25,5 @@ Then run the following commands:
 
 `npx sequelize-cli db:seed:all`
 
-**Update**
+**Update!**/
 The cloudinary account is deactivated so there would be problems when the code is run. 
