@@ -33,8 +33,6 @@ Then run the following commands:
 
 <img width="398" alt="2" src="https://user-images.githubusercontent.com/104118335/236010046-b76e05b7-4a24-4883-b5c6-62c010a24f1b.png">
 
-<h3>Documentation of the project :</h3>
-https://github.com/Everlandgo/players-pov/files/11389735/AGILE.FINAL.Rdy.for.submission.pdf
 
 
 
