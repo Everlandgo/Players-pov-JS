@@ -31,7 +31,7 @@ Then run the following commands:
 <h3>The screenshots captured during the execution of the code :</h3>
 <img width="452" alt="Picture1" src="https://user-images.githubusercontent.com/104118335/236010025-2121a04a-f0b1-43ae-9a01-6f2256b495cc.png">
 
-<img width="398" alt="2" src="https://user-images.githubusercontent.com/104118335/236010046-b76e05b7-4a24-4883-b5c6-62c010a24f1b.png">
+<img width="452" alt="2" src="https://user-images.githubusercontent.com/104118335/236010046-b76e05b7-4a24-4883-b5c6-62c010a24f1b.png">
 
 
 
